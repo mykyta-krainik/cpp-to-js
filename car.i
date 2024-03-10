@@ -1,4 +1,4 @@
-/* File: example.i */
+/* File: car.i */
 %module car
 %{
 #include "car.h"

@@ -1,0 +1,1 @@
+# Using of a C++ lib in a JS app
